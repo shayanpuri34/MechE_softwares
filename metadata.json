@@ -1,0 +1,6 @@
+{
+  "name": "Formula SAE Chassis FEA & Optimization",
+  "description": "Computational 3D beam-element finite element analysis (FEA) and structural optimization platform for Formula SAE spaceframe chassis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
